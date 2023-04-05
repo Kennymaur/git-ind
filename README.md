@@ -28,7 +28,7 @@ While cleaning the data, we encountered several issues that required attention, 
     * Pandas
     * Jupyter Notebook
     * Matplotlib.pyplot
-    * Seaborn
+    * Seaborn 
 
 
 ## Setup
